@@ -34,7 +34,7 @@ Experience
 
 _Technologies: Java, Python, C, SQL, Octave, STATA_
 
-*Acquire and apply knowledge of current and emerging programming practices, including fundamental engineering and economics concepts, client/server environments, and application development methodologies. Utilize several languages and modern technologies through collaboration with team members on various projects.
+* Acquire and apply knowledge of current and emerging programming practices, including fundamental engineering and economics concepts, client/server environments, and application development methodologies. Utilize several languages and modern technologies through collaboration with team members on various projects.
 
 
 **That Other Job You Had**
