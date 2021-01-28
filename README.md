@@ -22,28 +22,20 @@ Educationnal Background
 2017-2021
 :   **BSc, Computer Science and Engineering**; University of California Santa Cruz
       Santa Cruz, California
-
-    *Minor: Awesomeology*
     
  2017-2021
 :   **B.A, Economics**; University of California Santa Cruz
       Santa Cruz, California
 
-    *Minor: Awesomeology*
-
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Student of Computer Science and Economics:** 2017 - present
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+_Technologies: Java, Python, C, SQL, Octave, STATA_
 
-* First item
+*Acquire and apply knowledge of current and emerging programming practices, including fundamental engineering and economics concepts, client/server environments, and application development methodologies. Utilize several languages and modern technologies through collaboration with team members on various projects.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
 **That Other Job You Had**
 
