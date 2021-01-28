@@ -1,4 +1,4 @@
-Johnny Coder
+Juan Sebastian Reyes
 ============
 
 -------------------     ----------------------------
@@ -7,18 +7,27 @@ MyTown 1000                          @twitter_handle
 MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
 
-Education
+Qualifications Profile
 ---------
+Passionate and innovative with related education, practicum, and experience to excel within a **Software Engineering** role.
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+- **Software Solutions:** Hands-on experience developing and integrating tactical software applications to optimize the functionality of business operations while meeting  objectives.
+- **Relationship Development:** Multilingual professional fluent in English, Spanish, and German, with a background fostering robust relationships and interfacing with  clients and engineers across the globe.
+- **Technically Proficient:** Talent for quickly learning new information, procedures, and technologies, with the ability to convey complex technologies to a variety of skill levels.
+- **Key Strengths:** Collaborative student with exceptional organization and multitasking skills.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+Educationnal Background
+------------
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2017-2021
+:   **BSc, Computer Science and Engineering**; University of California Santa Cruz
+      Santa Cruz, California
+
+    *Minor: Awesomeology*
+    
+ 2017-2021
+:   **B.A, Economics**; University of California Santa Cruz
+      Santa Cruz, California
 
     *Minor: Awesomeology*
 
