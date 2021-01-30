@@ -7,7 +7,7 @@ MyTown 1000                          @twitter_handle
 MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
 
-* QUALIFICATIONS PROFILE *
+QUALIFICATIONS PROFILE
 ---------
 Passionate and innovative with related education, practicum, and experience to excel within a **Software Engineering** role.
 
@@ -16,7 +16,7 @@ Passionate and innovative with related education, practicum, and experience to e
 - **Technically Proficient:** Talent for quickly learning new information, procedures, and technologies, with the ability to convey complex technologies to a variety of skill levels.
 - **Key Strengths:** Collaborative student with exceptional organization and multitasking skills.
 
-* EDUCATIONAL BACKGROUND *
+EDUCATIONAL BACKGROUND 
 ------------
 
 2017-2021
@@ -27,7 +27,7 @@ Passionate and innovative with related education, practicum, and experience to e
 :   **B.A, Economics**- University of California Santa Cruz
       Santa Cruz, California
 
-* EXPERIENCE *
+EXPERIENCE
 ----------
 
 **Student of Computer Science and Economics:** 2017 - present
@@ -48,7 +48,7 @@ Partnered with a team of programmers to produce innovative software applications
 
 *Facilitated in the development of a cargo truck temperature tracking application; supplied insights on algorithms that could identify and prevent instances of truck drivers becoming drowsy.
 
-* RELEVANT COURSES *
+RELEVANT COURSES
 --------------------
 
 **Machine Learning**
