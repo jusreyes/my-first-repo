@@ -7,7 +7,7 @@ MyTown 1000                          @twitter_handle
 MyCountry                           1800 my-phone-nr
 -------------------     ----------------------------
 
-Qualifications Profile
+QUALIFICATIONS PROFILE
 ---------
 Passionate and innovative with related education, practicum, and experience to excel within a **Software Engineering** role.
 
@@ -16,18 +16,18 @@ Passionate and innovative with related education, practicum, and experience to e
 - **Technically Proficient:** Talent for quickly learning new information, procedures, and technologies, with the ability to convey complex technologies to a variety of skill levels.
 - **Key Strengths:** Collaborative student with exceptional organization and multitasking skills.
 
-Educationnal Background
+EDUCATIONAL BACKGROUND
 ------------
 
 2017-2021
-:   **BSc, Computer Science and Engineering**; University of California Santa Cruz
+:   **BSc, Computer Science and Engineering**- University of California Santa Cruz
       Santa Cruz, California
     
  2017-2021
-:   **B.A, Economics**; University of California Santa Cruz
+:   **B.A, Economics**- University of California Santa Cruz
       Santa Cruz, California
 
-Experience
+EXPERIENCE
 ----------
 
 **Student of Computer Science and Economics:** 2017 - present
@@ -36,21 +36,26 @@ _Technologies: Java, Python, C, SQL, Octave, STATA_
 
 * Acquire and apply knowledge of current and emerging programming practices, including fundamental engineering and economics concepts, client/server environments, and application development methodologies. Utilize several languages and modern technologies through collaboration with team members on various projects.
 
+**UCSC Economics Department Peer Advisor** Fall 2020
 
-**That Other Job You Had**
+* As a peer advisor for the Economics Department, I answered any questions about the Economics undergraduate program, helped students form and arrange their class schedules and check their graduate requirements.
+* Worked on a newsletter group project that was published by the UCSC Economics Department.
 
-Also with a short description.
+**Software Developer (Internship)** Summer 2018
+_Technologies: Java
 
-Technical Experience
+Partnered with a team of programmers to produce innovative software applications while receiving guidance on modern software practices. Performed comprehensive research on algorithms that could potentially be integrated and discover strategies for implementation into hardware.
+
+*Facilitated in the development of a cargo truck temperature tracking application; supplied insights on algorithms that could identify and prevent instances of truck drivers becoming drowsy.
+
+RELEVANT COURSES
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Machine Learning**
+_Standford University - Online_ Summer 2020
+:   Learned and applied most relevant Machine learning concepts such as Supervised and Unsupervised Learning and Statistical Pattern recognition
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Used Octave to code algorithms such as support vector machines, neural networks, and recommender systems
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
