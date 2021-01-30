@@ -52,10 +52,39 @@ RELEVANT COURSES
 --------------------
 
 **Machine Learning**
-_Standford University - Online_ Summer 2020
-:   Learned and applied most relevant Machine learning concepts such as Supervised and Unsupervised Learning and Statistical Pattern recognition
+Standford University - Online Summer 2020
+
+:  Learned and applied most relevant Machine learning concepts such as Supervised and Unsupervised Learning and Statistical Pattern recognition
 
     * Used Octave to code algorithms such as support vector machines, neural networks, and recommender systems
+    
+
+**Machine Learning**
+Standford University - Online Summer 2020
+
+:     
+
+    * Learned and applied most relevant Machine learning concepts such as Supervised and Unsupervised Learning and Statistical Pattern recognition
+
+    * Used Octave to code algorithms such as support vector machines, neural networks, and recommender systems
+    
+**Python 3 Programming**
+University of Michigan - Online Summer 2020
+
+:  
+
+    * Learned all the fundamentals of python programming. Learned about Functions, Files, Dictionaries, Data Collection, Classes, and Inheritance.
+
+    * Capstone project where I used API's and three different libraries (pillow, tesseract, opencv) to manipulate images for 
+    character text recognition and face identification.
+    
+**Algorithmic Toolbox**
+University of California San Diego - Online Summer 2020
+
+:  
+
+    * Reviewed and coded different algorithms to practice learned techniques such as Divide and Conquer, Recursion, Sorting and Dynamic Programming
+
 
 Open Source
 :   List open source contributions here, perhaps placing emphasis on
