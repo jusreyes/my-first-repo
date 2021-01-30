@@ -1,10 +1,7 @@
 Juan Sebastian Reyes
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+Bogota, Colombia * +1(954)-651-7461 * jusreyes@ucsc.edu
 -------------------     ----------------------------
 
 QUALIFICATIONS PROFILE
