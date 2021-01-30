@@ -36,12 +36,12 @@ _Technologies: Java, Python, C, SQL, Octave, STATA_
 
 * Acquire and apply knowledge of current and emerging programming practices, including fundamental engineering and economics concepts, client/server environments, and application development methodologies. Utilize several languages and modern technologies through collaboration with team members on various projects.
 
-**UCSC Economics Department Peer Advisor** Fall 2020
+**UCSC Economics Department Peer Advisor** - Fall 2020
 
 * As a peer advisor for the Economics Department, I answered any questions about the Economics undergraduate program, helped students form and arrange their class schedules and check their graduate requirements.
 * Worked on a newsletter group project that was published by the UCSC Economics Department.
 
-**Software Developer (Internship)** Summer 2018
+**Software Developer (Internship)** - Summer 2018
 _Technologies: Java
 
 Partnered with a team of programmers to produce innovative software applications while receiving guidance on modern software practices. Performed comprehensive research on algorithms that could potentially be integrated and discover strategies for implementation into hardware.
@@ -52,15 +52,7 @@ RELEVANT COURSES
 --------------------
 
 **Machine Learning**
-Standford University - Online Summer 2020
-
-:  Learned and applied most relevant Machine learning concepts such as Supervised and Unsupervised Learning and Statistical Pattern recognition
-
-    * Used Octave to code algorithms such as support vector machines, neural networks, and recommender systems
-    
-
-**Machine Learning**
-Standford University - Online Summer 2020
+_Standford University - Online Summer 2020
 
 :     
 
@@ -69,7 +61,7 @@ Standford University - Online Summer 2020
     * Used Octave to code algorithms such as support vector machines, neural networks, and recommender systems
     
 **Python 3 Programming**
-University of Michigan - Online Summer 2020
+_University of Michigan - Online Summer 2020
 
 :  
 
@@ -79,7 +71,7 @@ University of Michigan - Online Summer 2020
     character text recognition and face identification.
     
 **Algorithmic Toolbox**
-University of California San Diego - Online Summer 2020
+_University of California San Diego - Online Summer 2020
 
 :  
 
