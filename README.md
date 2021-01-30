@@ -1,7 +1,7 @@
 Juan Sebastian Reyes
 ============
 
-Bogota, Colombia * +1(954)-651-7461 * jusreyes@ucsc.edu
+Bogota, Colomba • +1 954-651-7461 • jusreyes@ucsc.edu
 -------------------     ----------------------------
 
 QUALIFICATIONS PROFILE
